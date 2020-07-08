@@ -39,6 +39,7 @@
             android:layout_weight="1"
             app:autoFill="true"
             app:autoFormat="true"
+            app:defaultCountry="il"
             app:hint="@string/label_input_phone">
 
         </com.github.ialokim.phonefield.PhoneInputLayout>
